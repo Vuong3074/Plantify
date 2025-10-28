@@ -1,0 +1,10 @@
+# 🌿 Plantify
+
+Plantify là một website bán cây cảnh được xây dựng bằng React + Vite.
+
+## 🚀 Cách chạy dự án
+
+```bash
+# npm install
+# npm run dev
+# link web đã tạo: https://myplanti.netlify.app
