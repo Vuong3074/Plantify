@@ -1,0 +1,11 @@
+.landing-container {
+  background-image: url("/bg.png"); /* hoặc bg.jpg nếu bạn dùng ảnh JPG */
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 2rem;
+}
